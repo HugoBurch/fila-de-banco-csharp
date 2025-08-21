@@ -1,0 +1,14 @@
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\bin\Debug\net8.0\fila_de_banco.exe
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\bin\Debug\net8.0\fila_de_banco.deps.json
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\bin\Debug\net8.0\fila_de_banco.runtimeconfig.json
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\bin\Debug\net8.0\fila_de_banco.dll
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\bin\Debug\net8.0\fila_de_banco.pdb
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.AssemblyInfoInputs.cache
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.AssemblyInfo.cs
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.csproj.CoreCompileInputs.cache
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.dll
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\refint\fila_de_banco.dll
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.pdb
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\fila_de_banco.genruntimeconfig.cache
+C:\Users\hugos\source\repos\fila_de_banco\fila_de_banco\obj\Debug\net8.0\ref\fila_de_banco.dll

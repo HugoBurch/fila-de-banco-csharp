@@ -91,14 +91,16 @@ namespace test {
 
                         break;
                     case "listar":
-                        Console.WriteLine("Listando clientes na fila.");
+                        Console.WriteLine("\nListando clientes na fila.\n");
+                        Fila.ListarClientes();
+                        loopfila();
 
                         break;
                     case "sair":
-                        Console.WriteLine("Saindo do programa.");
+                        Console.WriteLine("\nSaindo do programa.\n");
                         return;
                     default:
-                        Console.WriteLine("Opção inválida. Tente novamente.");
+                        Console.WriteLine("\nOpção inválida. Tente novamente.");
                         break;
                 }
             }
